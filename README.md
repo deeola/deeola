@@ -1,16 +1,35 @@
-### Hi there 👋
+🫡 Welcome, My name is Adeola. 
 
-<!--
-**deeola/deeola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😎 I'm a frontend developer who loves using web technologies to build stuffs.
 
-Here are some ideas to get you started:
+🗣 Javascript is my "mother tongue" and i speak some Python 🐍🐍 🗣
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages and Frameworks
+   - 😎 React
+   - 👍🏿 Typescript
+   - ✌🏾 Styled Components
+   - 😇 CSS
+   - 😋 HTML
+   - 🤓 SASS
+   - 🤗 GSAP
+   - 🤌🏾 JQuery
+  
+ - Tools
+   - 🤞🏾 JIRA
+   - 👌 Figma
+   - 🦾 Netlify
+   - 🥷🏽 Heroku
+   - 🧚🏾‍♀️ Git
+   - 🕺🏾 Gitlab
+   - 🦆 Github
+   - 🦅 Teams
+  
+ - Testing
+   - 🦋 JEST
+   - 🦕 Loki
+ 
+🌍 [Click here to visit my personal website](https://workwithdee.tech/)
+
+💻 [Click here to see some of the open source projects i've contributed to](https://deeola.github.io/open-source/).
+
+🖨 Do you have any question for me? Email me at: clazikar@gmail.com 🖨
