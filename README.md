@@ -6,6 +6,7 @@
 
 - Languages and Frameworks
    - 😎 React
+   - Javascript
    - 👍🏿 Typescript
    - ✌🏾 Styled Components
    - 😇 CSS
